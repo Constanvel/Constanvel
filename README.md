@@ -85,12 +85,16 @@ A reading diary for manga and manhwa — Letterboxd, but for panels. Track what 
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Constanvel&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Constanvel&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Constanvel&theme=transparent" alt="GitHub profile summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Constanvel&hide_border=true&theme=transparent" alt="Streak" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Constanvel&theme=transparent" alt="Top languages by repo" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Constanvel&theme=transparent" alt="Top languages by commit" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Constanvel&hide_border=true&theme=transparent" alt="Streak" />
 </p>
 
 ## Contact
