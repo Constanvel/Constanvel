@@ -102,7 +102,7 @@ A reading diary for manga and manhwa — Letterboxd, but for panels. Track what 
 </p>
 
 - 📧 Email — [rainersimanjuntak59@gmail.com](mailto:rainersimanjuntak59@gmail.com)
-- 🎨 Design portfolio — _(tambahkan link di sini)_
+- 🎨 Design portfolio — __
 
 ---
 
