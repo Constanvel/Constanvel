@@ -97,12 +97,12 @@ A reading diary for manga and manhwa — Letterboxd, but for panels. Track what 
 
 <p>
   <a href="mailto:rainersimanjuntak59@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://dribbble.com/"><img src="https://img.shields.io/badge/Design%20Portfolio-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Design portfolio" /></a>
+  <a href="https://[dribbble.com](https://dribbble.com/constantine-rainer)/"><img src="https://img.shields.io/badge/Design%20Portfolio-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Design portfolio" /></a>
   <a href="https://github.com/Constanvel"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 - 📧 Email — [rainersimanjuntak59@gmail.com](mailto:rainersimanjuntak59@gmail.com)
-- 🎨 Design portfolio — __
+- 🎨 Design portfolio —[ https://dribbble.com/constantine-rainer](url)
 
 ---
 
