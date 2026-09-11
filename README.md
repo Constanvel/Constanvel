@@ -81,6 +81,7 @@ A reading diary for manga and manhwa — Letterboxd, but for panels. Track what 
 - 📘 **Completed** — 15-module AI Learning Program for Youth (2026)
 - 🗣️ **Completed** — English Discoveries, TOEIC Excellence Program, Edusoft Ltd. (2026)
 - 🤖 Active member of my school's AI extracurricular, where I also present and share what I learn with other students
+- Currently active at ai engineering 
 
 ## GitHub Stats
 
