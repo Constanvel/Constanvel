@@ -1,116 +1,80 @@
-<h1 align="center">Constantine Rainer Simanjuntak</h1>
+# Constantine Rainer Simanjuntak
 
-<p align="center">
-  Software engineering student building AI tools — and the interfaces around them.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Purwokerto-Indonesia-1f6feb?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Engineering-8b5cf6?style=flat-square" alt="Focus" />
-  <img src="https://komarev.com/ghpvc/?username=Constanvel&style=flat-square&color=1f6feb" alt="Profile views" />
-</p>
-
----
-
-I'm a vocational student at **SMK Telkom Purwokerto** (Software Engineering / PPLG), Indonesia, working toward AI Engineering. Most of what I build sits between two things: models that do something genuinely useful, and interfaces people don't have to fight.
-
-- 🔭 Building the **Admin Dashboard** for my school's official website — React + Tailwind, full CRUD
-- 🌱 Learning **computer vision** and **LLM application patterns** — object detection, retrieval-augmented generation
-- 🎨 Running a **100-day UI/UX design challenge**
-- 💬 Open to collaboration on student projects and freelance UI work
-
-## Tech Stack
-
-**Languages**
+Software engineering student at SMK Telkom Purwokerto, Indonesia.
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Purwokerto-Indonesia-262B33?style=flat-square" height="20" alt="Location" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Engineering-262B33?style=flat-square" height="20" alt="Focus" />
+  <img src="https://komarev.com/ghpvc/?username=Constanvel&style=flat-square&color=586575" alt="Profile views" />
 </p>
 
-**Frameworks & Tools**
+I build web projects and design interfaces. I'm working toward AI engineering, learning through experiments with computer vision and document-based chatbots.
+
+### Selected projects
+
+- [AI Text Summarizer](https://github.com/Constanvel/AI-Text-Summarizer) — A small web tool for turning long text into summaries with Groq.
+- [Lensa](https://github.com/Constanvel/Lensa) — A place to write and read essays about fictional characters.
+- [School website](https://github.com/Constanvel/smk-telkom-purwokerto) — A team project for SMK Telkom Purwokerto. My part is the admin dashboard UI.
+
+### Tools & learning
+
+#### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Python-262B33?style=flat-square&logo=python&logoColor=74B9E8" height="20" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-262B33?style=flat-square&logo=javascript&logoColor=F7DF1E" height="20" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-262B33?style=flat-square&logo=html5&logoColor=F0785A" height="20" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-262B33?style=flat-square&logo=css&logoColor=B79AEA" height="20" alt="CSS3" />
+  <img src="https://img.shields.io/badge/PHP-262B33?style=flat-square&logo=php&logoColor=B4B9ED" height="20" alt="PHP" />
 </p>
 
-**AI / ML**
+#### Frameworks & tools
 
 <p>
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/React-262B33?style=flat-square&logo=react&logoColor=61DAFB" height="20" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-262B33?style=flat-square&logo=tailwindcss&logoColor=38BDF8" height="20" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-262B33?style=flat-square&logo=vite&logoColor=B99AFF" height="20" alt="Vite" />
+  <img src="https://img.shields.io/badge/Git-262B33?style=flat-square&logo=git&logoColor=F5806E" height="20" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-262B33?style=flat-square&logo=figma&logoColor=B9A3FF" height="20" alt="Figma" />
+  <img src="https://img.shields.io/badge/VS%20Code-262B33?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik05MC43NjcgMTI3LjEyNmE3Ljk2OCA3Ljk2OCAwIDAgMCA2LjM1LS4yNDRsMjYuMzUzLTEyLjY4MWE4IDggMCAwIDAgNC41My03LjIwOVYyMS4wMDlhOCA4IDAgMCAwLTQuNTMtNy4yMUw5Ny4xMTcgMS4xMmE3Ljk3IDcuOTcgMCAwIDAtOS4wOTMgMS41NDhsLTUwLjQ1IDQ2LjAyNkwxNS42IDMyLjAxM2E1LjMyOCA1LjMyOCAwIDAgMC02LjgwNy4zMDJsLTcuMDQ4IDYuNDExYTUuMzM1IDUuMzM1IDAgMCAwLS4wMDYgNy44ODhMMjAuNzk2IDY0IDEuNzQgODEuMzg3YTUuMzM2IDUuMzM2IDAgMCAwIC4wMDYgNy44ODdsNy4wNDggNi40MTFhNS4zMjcgNS4zMjcgMCAwIDAgNi44MDcuMzAzbDIxLjk3NC0xNi42OCA1MC40NSA0Ni4wMjVhNy45NiA3Ljk2IDAgMCAwIDIuNzQzIDEuNzkzWm01LjI1Mi05Mi4xODNMNTcuNzQgNjRsMzguMjggMjkuMDU4VjM0Ljk0M1oiIGNsaXAtcnVsZT0iZXZlbm9kZCIvPjwvc3ZnPgo%3D" height="20" alt="VS Code" />
 </p>
 
-## Selected Work
+#### AI / ML
 
-### 🕳️ Pothole Tracker
-Road damage detection using the YOLO object detection architecture. Trained and evaluated on annotated road imagery to flag potholes from camera input — a small step toward automated road maintenance reporting.
-`Python` `YOLO` `Computer Vision` `Google Colab`
+<p>
+  <img src="https://img.shields.io/badge/YOLO-262B33?style=flat-square&logo=yolo&logoColor=6FE3DA" height="20" alt="YOLO" />
+  <img src="https://img.shields.io/badge/PyTorch-262B33?style=flat-square&logo=pytorch&logoColor=FF8B77" height="20" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/OpenCV-262B33?style=flat-square&logo=opencv&logoColor=92C78D" height="20" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-262B33?style=flat-square&logo=huggingface&logoColor=FFD56A" height="20" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Google%20Colab-262B33?style=flat-square&logo=googlecolab&logoColor=F9AB00" height="20" alt="Google Colab" />
+</p>
 
-### 📚 RAG Chatbot
-A document-aware chatbot built on Retrieval-Augmented Generation. Instead of answering from model memory alone, it retrieves relevant passages from uploaded documents and grounds its responses in them.
-`Python` `RAG` `LLM` `Google Colab`
+Currently exploring object detection with YOLO and retrieval-augmented generation (RAG).
 
-### 🦙 Llama 3.3 Chatbot
-Conversational assistant built on Llama-3.3-70B-Versatile, exploring prompt design, context handling, and API integration for large language models.
-`Python` `Llama 3.3` `LLM API`
+### Beyond code
 
-### 🏫 School Website — Admin Dashboard
-The internal management layer for SMK Telkom Purwokerto's official site. Login flow, sidebar navigation, dashboard overview, and CRUD modules for news, announcements, achievements, career services, and student admission data.
-`React` `Tailwind CSS` `Component Architecture`
+UI/UX design finalist at Sevent 9.0 (2025). I also share what I learn with students in my school's AI club.
 
-### 📖 PanelLog
-A reading diary for manga and manhwa — Letterboxd, but for panels. Track what you've read, rate it, and keep a visual log of your library.
-`Web` `UI/UX` `Product Design`
 
-## Achievements
+### GitHub activity
 
-- 🏅 **Finalist** — UI/UX Design Competition Sevent 9.0, Telkom University Purwokerto (2025)
-- 🎯 **Participant** — National UI/UX Design Competition WISE InnoVera 2026, Universitas Widyatama
-- 📘 **Completed** — 15-module AI Learning Program for Youth (2026)
-- 🗣️ **Completed** — English Discoveries, TOEIC Excellence Program, Edusoft Ltd. (2026)
-- 🤖 Active member of my school's AI extracurricular, where I also present and share what I learn with other students
-- Currently active at ai engineering 
-
-## GitHub Stats
-
-<p align="center">
+<p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Constanvel&theme=transparent" alt="GitHub profile summary" />
 </p>
 
-<p align="center">
+<p>
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Constanvel&theme=transparent" alt="Top languages by repo" />
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Constanvel&theme=transparent" alt="Top languages by commit" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://streak-stats.demolab.com/?user=Constanvel&hide_border=true&theme=transparent" alt="Streak" />
 </p>
 
-## Contact
+### Contact
 
 <p>
-  <a href="mailto:rainersimanjuntak59@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://dribbble.com/constantine-rainer"><img src="https://img.shields.io/badge/Design%20Portfolio-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Design portfolio" /></a>
-  <a href="https://github.com/Constanvel"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
-- 📧 Email — [rainersimanjuntak59@gmail.com](mailto:rainersimanjuntak59@gmail.com)
-- 🎨 Design portfolio — [dribbble.com/constantine-rainer](https://dribbble.com/constantine-rainer)
-
----
-
-<p align="center">
-  <sub>Based in Purwokerto, Central Java, Indonesia · Currently open to student collaborations</sub>
+  <a href="mailto:rainersimanjuntak59@gmail.com"><img src="https://img.shields.io/badge/Email-262B33?style=flat-square&logo=gmail&logoColor=F28B82" height="20" alt="Email" /></a>
+  <a href="https://dribbble.com/constantine-rainer"><img src="https://img.shields.io/badge/Design%20Portfolio-262B33?style=flat-square&logo=dribbble&logoColor=F49FC4" height="20" alt="Design portfolio" /></a>
+  <a href="https://github.com/Constanvel"><img src="https://img.shields.io/badge/GitHub-262B33?style=flat-square&logo=github&logoColor=FFFFFF" height="20" alt="GitHub" /></a>
 </p>
