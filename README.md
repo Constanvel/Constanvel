@@ -8,7 +8,7 @@ Software engineering student at SMK Telkom Purwokerto, Indonesia.
   <img src="https://komarev.com/ghpvc/?username=Constanvel&style=flat-square&color=586575" alt="Profile views" />
 </p>
 
-I build web projects and design interfaces. I'm working toward AI engineering, learning through experiments with computer vision and document-based chatbots.
+I build web projects and design interfaces. I'm working toward AI engineering, learning through experiments with computer vision, document-based chatbots and games with AI integrated systems 
 
 ### Selected projects
 
