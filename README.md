@@ -67,10 +67,6 @@ UI/UX design finalist at Sevent 9.0 (2025). I also share what I learn with stude
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Constanvel&theme=transparent" alt="Top languages by commit" />
 </p>
 
-<p>
-  <img src="https://streak-stats.demolab.com/?user=Constanvel&hide_border=true&theme=transparent" alt="Streak" />
-</p>
-
 ### Contact
 
 <p>
