@@ -5,22 +5,43 @@ Software engineering student at SMK Telkom Purwokerto, Indonesia.
 <p>
   <img src="https://img.shields.io/badge/Purwokerto-Indonesia-262B33?style=flat-square" height="20" alt="Location" />
   <img src="https://img.shields.io/badge/Focus-AI%20Engineering-262B33?style=flat-square" height="20" alt="Focus" />
-  <img src="https://komarev.com/ghpvc/?username=Constanvel&style=flat-square&color=586575" alt="Profile views" />
 </p>
 
-I build web projects and design interfaces. I'm working toward AI engineering, learning through experiments with computer vision, document-based chatbots and games with AI integrated systems 
+I build web applications, design interfaces, and experiment with educational games. My projects range from a service website and an essay platform to browser games and Roblox prototypes.
+
+I'm working toward **AI engineering**, building practical experience with LLM APIs while exploring computer vision and retrieval-augmented generation (RAG).
 
 ### Selected projects
 
-- [AI Text Summarizer](https://github.com/Constanvel/AI-Text-Summarizer) — A small web tool for turning long text into summaries with Groq.
-- [Lensa](https://github.com/Constanvel/Lensa) — A place to write and read essays about fictional characters.
-- [School website](https://github.com/Constanvel/smk-telkom-purwokerto) — A team project for SMK Telkom Purwokerto. My part is the admin dashboard UI.
+#### Web applications
+
+- **[SAGARA](https://github.com/Constanvel/Sunatan)** — A service information website with a WhatsApp registration flow. Built with **Next.js, React, and TypeScript**, with search metadata, structured data, Playwright tests, and GitHub Actions checks. Requests still require admin confirmation. [Live website](https://sagara-vert.vercel.app).
+- **[Lensa](https://github.com/Constanvel/Lensa)** — An analytical essay platform about fictional characters, with claim types, citations, and structured counterpoints. Built with **Next.js, TypeScript, Tailwind CSS, and Supabase**, with magic-link authentication and a reusable component library.
+
+#### AI tools
+
+- **[Astra Prompt Improver](https://github.com/Constanvel/Astra-prompt-optimization-)** — An early **Chrome/Edge extension and local Node.js server** for improving prompt drafts through a configurable LLM API. Results can be reviewed before applying; provider API keys stay on the local server. [Setup and limitations](https://github.com/Constanvel/Astra-prompt-optimization-/blob/main/SETUP.md).
+- **[AI Text Summarizer](https://github.com/Constanvel/AI-Text-Summarizer)** — A personal-use **JavaScript** tool that summarizes text through the **Groq API**, with adjustable summary length, word counts, clipboard support, and error handling.
+
+#### Educational games
+
+- **[Gundul Warrior](https://github.com/Constanvel/Projek-Matematika)** — A **JavaScript and Canvas 2D** platformer for learning functions and composition. Includes 12 questions across three regions, keyboard and touch controls, checkpoints, local saves, unit tests, and Playwright browser tests.
+- **[ENAM JAM: 1949](https://github.com/Constanvel/G30sPKI)** — A **Roblox Studio and Luau** history-game prototype about the 1 March 1949 General Offensive in Yogyakarta. Includes a 1–4-player lobby and a shared-progress prologue with server-side interaction validation. Later chapters and combat are not yet implemented.
+
+More experiments: **[BARA 1946](https://github.com/Constanvel/BARA-1946)**, a retro Roblox history-game prototype with exploration, dialogue, and arcade combat; and **[Bandung 1946 — Garis Pertahanan](https://github.com/Constanvel/Tugas-Sejarah)**, an early **Godot/GDScript** foundation with movement, camera, collision, and menus.
+
+### Collaboration
+
+**[SMK Telkom Purwokerto website](https://github.com/Constanvel/smk-telkom-purwokerto)** — A team project. My contribution is the **admin dashboard UI**.
 
 ### Tools & learning
 
 #### Languages
 
 <p>
+  <img src="https://img.shields.io/badge/TypeScript-262B33?style=flat-square&logo=typescript&logoColor=3178C6" height="20" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Luau-262B33?style=flat-square&logo=luau&logoColor=00A2FF" height="20" alt="Luau" />
+  <img src="https://img.shields.io/badge/GDScript-262B33?style=flat-square&logo=godotengine&logoColor=478CBF" height="20" alt="GDScript" />
   <img src="https://img.shields.io/badge/Python-262B33?style=flat-square&logo=python&logoColor=74B9E8" height="20" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-262B33?style=flat-square&logo=javascript&logoColor=F7DF1E" height="20" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-262B33?style=flat-square&logo=html5&logoColor=F0785A" height="20" alt="HTML5" />
@@ -31,6 +52,9 @@ I build web projects and design interfaces. I'm working toward AI engineering, l
 #### Frameworks & tools
 
 <p>
+  <img src="https://img.shields.io/badge/Next.js-262B33?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" height="20" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Supabase-262B33?style=flat-square&logo=supabase&logoColor=3FCF8E" height="20" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Node.js-262B33?style=flat-square&logo=nodedotjs&logoColor=5FA04E" height="20" alt="Node.js" />
   <img src="https://img.shields.io/badge/React-262B33?style=flat-square&logo=react&logoColor=61DAFB" height="20" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-262B33?style=flat-square&logo=tailwindcss&logoColor=38BDF8" height="20" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Vite-262B33?style=flat-square&logo=vite&logoColor=B99AFF" height="20" alt="Vite" />
@@ -39,7 +63,16 @@ I build web projects and design interfaces. I'm working toward AI engineering, l
   <img src="https://img.shields.io/badge/VS%20Code-262B33?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik05MC43NjcgMTI3LjEyNmE3Ljk2OCA3Ljk2OCAwIDAgMCA2LjM1LS4yNDRsMjYuMzUzLTEyLjY4MWE4IDggMCAwIDAgNC41My03LjIwOVYyMS4wMDlhOCA4IDAgMCAwLTQuNTMtNy4yMUw5Ny4xMTcgMS4xMmE3Ljk3IDcuOTcgMCAwIDAtOS4wOTMgMS41NDhsLTUwLjQ1IDQ2LjAyNkwxNS42IDMyLjAxM2E1LjMyOCA1LjMyOCAwIDAgMC02LjgwNy4zMDJsLTcuMDQ4IDYuNDExYTUuMzM1IDUuMzM1IDAgMCAwLS4wMDYgNy44ODhMMjAuNzk2IDY0IDEuNzQgODEuMzg3YTUuMzM2IDUuMzM2IDAgMCAwIC4wMDYgNy44ODdsNy4wNDggNi40MTFhNS4zMjcgNS4zMjcgMCAwIDAgNi44MDcuMzAzbDIxLjk3NC0xNi42OCA1MC40NSA0Ni4wMjVhNy45NiA3Ljk2IDAgMCAwIDIuNzQzIDEuNzkzWm01LjI1Mi05Mi4xODNMNTcuNzQgNjRsMzguMjggMjkuMDU4VjM0Ljk0M1oiIGNsaXAtcnVsZT0iZXZlbm9kZCIvPjwvc3ZnPgo%3D" height="20" alt="VS Code" />
 </p>
 
-#### AI / ML
+#### Testing & game development
+
+| Area | Tools and examples |
+| --- | --- |
+| Testing | Playwright browser tests; Node.js unit tests |
+| Automation | GitHub Actions checks in SAGARA |
+| Browser games | Canvas 2D and JavaScript ES modules |
+| Game engines | Roblox Studio and Luau; Godot and GDScript |
+
+#### Exploring AI / ML
 
 <p>
   <img src="https://img.shields.io/badge/YOLO-262B33?style=flat-square&logo=yolo&logoColor=6FE3DA" height="20" alt="YOLO" />
@@ -49,7 +82,13 @@ I build web projects and design interfaces. I'm working toward AI engineering, l
   <img src="https://img.shields.io/badge/Google%20Colab-262B33?style=flat-square&logo=googlecolab&logoColor=F9AB00" height="20" alt="Google Colab" />
 </p>
 
-Currently exploring object detection with YOLO and retrieval-augmented generation (RAG).
+Currently exploring object detection with YOLO and retrieval-augmented generation (RAG). These are learning interests; the AI tools featured above integrate existing model APIs rather than train custom models.
+
+### What I'm building toward
+
+- Web applications with clear interfaces, reusable components, and tested user flows.
+- Educational games that connect school subjects with interactive mechanics.
+- AI applications grounded in stronger software engineering foundations.
 
 ### Beyond code
 
