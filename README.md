@@ -71,6 +71,4 @@ UI/UX design finalist at Sevent 9.0 (2025). I also share what I learn with stude
 
 <p>
   <a href="mailto:rainersimanjuntak59@gmail.com"><img src="https://img.shields.io/badge/Email-262B33?style=flat-square&logo=gmail&logoColor=F28B82" height="20" alt="Email" /></a>
-  <a href="https://dribbble.com/constantine-rainer"><img src="https://img.shields.io/badge/Design%20Portfolio-262B33?style=flat-square&logo=dribbble&logoColor=F49FC4" height="20" alt="Design portfolio" /></a>
-  <a href="https://github.com/Constanvel"><img src="https://img.shields.io/badge/GitHub-262B33?style=flat-square&logo=github&logoColor=FFFFFF" height="20" alt="GitHub" /></a>
 </p>
