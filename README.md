@@ -15,24 +15,19 @@ I'm working toward **AI engineering**, building practical experience with LLM AP
 
 #### Web applications
 
-- **[SAGARA](https://github.com/Constanvel/Sunatan)** — A service information website with a WhatsApp registration flow. Built with **Next.js, React, and TypeScript**, with search metadata, structured data, Playwright tests, and GitHub Actions checks. Requests still require admin confirmation. [Live website](https://sagara-vert.vercel.app).
-- **[Lensa](https://github.com/Constanvel/Lensa)** — An analytical essay platform about fictional characters, with claim types, citations, and structured counterpoints. Built with **Next.js, TypeScript, Tailwind CSS, and Supabase**, with magic-link authentication and a reusable component library.
+- **[SAGARA](https://github.com/Constanvel/Sunatan)** — A service information website with a WhatsApp registration flow, built with **Next.js, React, and TypeScript**. **My role: Front-end Developer — I built the entire front end**, including all pages, reusable components, responsive layouts, and registration interface. Requests still require admin confirmation. [Live website](https://sagara-vert.vercel.app).
+- **[Lensa](https://github.com/Constanvel/Lensa)** — An analytical essay platform about fictional characters, with claim types, citations, and structured counterpoints. Uses **Next.js, TypeScript, Tailwind CSS, and Supabase**. **My role: Front-end Developer — I built the entire front end**, including all pages, the component library, essay reading and writing interfaces, and authentication screens.
+- **[SMK Telkom Purwokerto website](https://github.com/Constanvel/smk-telkom-purwokerto)** — A school website developed as a team project. **My role: Front-end Developer — I built the entire front end**, including all website pages and the admin dashboard UI.
 
 #### AI tools
 
-- **[Astra Prompt Improver](https://github.com/Constanvel/Astra-prompt-optimization-)** — An early **Chrome/Edge extension and local Node.js server** for improving prompt drafts through a configurable LLM API. Results can be reviewed before applying; provider API keys stay on the local server. [Setup and limitations](https://github.com/Constanvel/Astra-prompt-optimization-/blob/main/SETUP.md).
 - **[AI Text Summarizer](https://github.com/Constanvel/AI-Text-Summarizer)** — A personal-use **JavaScript** tool that summarizes text through the **Groq API**, with adjustable summary length, word counts, clipboard support, and error handling.
 
 #### Educational games
 
-- **[Gundul Warrior](https://github.com/Constanvel/Projek-Matematika)** — A **JavaScript and Canvas 2D** platformer for learning functions and composition. Includes 12 questions across three regions, keyboard and touch controls, checkpoints, local saves, unit tests, and Playwright browser tests.
-- **[ENAM JAM: 1949](https://github.com/Constanvel/G30sPKI)** — A **Roblox Studio and Luau** history-game prototype about the 1 March 1949 General Offensive in Yogyakarta. Includes a 1–4-player lobby and a shared-progress prologue with server-side interaction validation. Later chapters and combat are not yet implemented.
+- **[Gundul Warrior](https://github.com/Constanvel/Projek-Matematika)** — A **JavaScript and Canvas 2D** platformer for learning functions and composition. **My role: Front-end Developer — I built the entire browser-side experience**, including the game rendering, menus, question interfaces, keyboard and touch controls, and local progress saving. Includes 12 questions across three regions, checkpoints, unit tests, and Playwright browser tests.
 
 More experiments: **[BARA 1946](https://github.com/Constanvel/BARA-1946)**, a retro Roblox history-game prototype with exploration, dialogue, and arcade combat; and **[Bandung 1946 — Garis Pertahanan](https://github.com/Constanvel/Tugas-Sejarah)**, an early **Godot/GDScript** foundation with movement, camera, collision, and menus.
-
-### Collaboration
-
-**[SMK Telkom Purwokerto website](https://github.com/Constanvel/smk-telkom-purwokerto)** — A team project. My contribution is the **admin dashboard UI**.
 
 ### Tools & learning
 
