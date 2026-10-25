@@ -6,6 +6,14 @@ Pelajar rekayasa perangkat lunak di **SMK Telkom Purwokerto, Indonesia**, berfok
 
 Saya membangun pengalaman front-end secara menyeluruh: tata letak halaman, komponen yang dapat digunakan ulang, antarmuka aplikasi, dan game edukasi berbasis browser.
 
+<p>
+  <img src="https://img.shields.io/badge/Next.js-262B33?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" height="24" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-262B33?style=flat-square&logo=typescript&logoColor=3178C6" height="24" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-262B33?style=flat-square&logo=react&logoColor=61DAFB" height="24" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-262B33?style=flat-square&logo=tailwindcss&logoColor=38BDF8" height="24" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Supabase-262B33?style=flat-square&logo=supabase&logoColor=3FCF8E" height="24" alt="Supabase" />
+</p>
+
 ### Proyek pilihan
 
 #### Aplikasi web
