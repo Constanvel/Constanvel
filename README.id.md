@@ -6,14 +6,6 @@ Pelajar rekayasa perangkat lunak di **SMK Telkom Purwokerto, Indonesia**, berfok
 
 Saya membangun pengalaman front-end secara menyeluruh: tata letak halaman, komponen yang dapat digunakan ulang, antarmuka aplikasi, dan game edukasi berbasis browser.
 
-<p>
-  <img src="https://img.shields.io/badge/Next.js-262B33?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" height="24" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-262B33?style=flat-square&logo=typescript&logoColor=3178C6" height="24" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-262B33?style=flat-square&logo=react&logoColor=61DAFB" height="24" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-262B33?style=flat-square&logo=tailwindcss&logoColor=38BDF8" height="24" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Supabase-262B33?style=flat-square&logo=supabase&logoColor=3FCF8E" height="24" alt="Supabase" />
-</p>
-
 ### Proyek pilihan
 
 #### Aplikasi web
@@ -38,12 +30,12 @@ Teknologi dan teknik yang diterapkan dalam proyek, bukan daftar semua alat yang 
 
 | Fokus | Pengalaman penerapan | Proyek |
 | --- | --- | --- |
-| **Next.js App Router & TypeScript** | Penyusunan halaman, layout bersama, dan komponen bertipe | [SAGARA](https://github.com/Constanvel/Sunatan), [Lensa](https://github.com/Constanvel/Lensa) |
-| **Sistem komponen & Tailwind CSS** | Komponen UI yang dapat digunakan ulang, token desain, state interaksi, dan tata letak baca responsif | [Lensa](https://github.com/Constanvel/Lensa/tree/main/src/components/kit) |
-| **Integrasi Supabase** | Alur autentikasi front-end dan antarmuka yang terhubung dengan data PostgreSQL | [Lensa](https://github.com/Constanvel/Lensa) |
-| **Playwright & unit testing** | Pengujian alur browser serta pengujian fisika game, progres, dan validasi penyimpanan | [Gundul Warrior](https://github.com/Constanvel/Projek-Matematika/tree/main/tests) |
-| **Canvas 2D & sistem game** | Simulasi dengan langkah waktu tetap, deteksi collision, input keyboard/sentuh, dan penyimpanan checkpoint | [Gundul Warrior](https://github.com/Constanvel/Projek-Matematika/tree/main/js/game) |
-| **SEO teknis & pemeriksaan otomatis** | Metadata, structured data, sitemap/robots, serta konfigurasi CI untuk lint, pemeriksaan tipe, build, dan pengujian browser | [SAGARA](https://github.com/Constanvel/Sunatan) |
+| <img src="https://cdn.simpleicons.org/nextdotjs/888888" width="18" height="18" alt="Next.js" /> <img src="https://cdn.simpleicons.org/typescript/3178C6" width="18" height="18" alt="TypeScript" /><br>**Next.js App Router & TypeScript** | Penyusunan halaman, layout bersama, dan komponen bertipe | [SAGARA](https://github.com/Constanvel/Sunatan), [Lensa](https://github.com/Constanvel/Lensa) |
+| <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="18" height="18" alt="Tailwind CSS" /><br>**Sistem komponen & Tailwind CSS** | Komponen UI yang dapat digunakan ulang, token desain, state interaksi, dan tata letak baca responsif | [Lensa](https://github.com/Constanvel/Lensa/tree/main/src/components/kit) |
+| <img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="18" height="18" alt="Supabase" /><br>**Integrasi Supabase** | Alur autentikasi front-end dan antarmuka yang terhubung dengan data PostgreSQL | [Lensa](https://github.com/Constanvel/Lensa) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/playwright/playwright-original.svg" width="18" height="18" alt="Playwright" /><br>**Playwright & unit testing** | Pengujian alur browser serta pengujian fisika game, progres, dan validasi penyimpanan | [Gundul Warrior](https://github.com/Constanvel/Projek-Matematika/tree/main/tests) |
+| <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="18" height="18" alt="JavaScript" /><br>**Canvas 2D & sistem game** | Simulasi dengan langkah waktu tetap, deteksi collision, input keyboard/sentuh, dan penyimpanan checkpoint | [Gundul Warrior](https://github.com/Constanvel/Projek-Matematika/tree/main/js/game) |
+| <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="18" height="18" alt="GitHub Actions" /><br>**SEO teknis & pemeriksaan otomatis** | Metadata, structured data, sitemap/robots, serta konfigurasi CI untuk lint, pemeriksaan tipe, build, dan pengujian browser | [SAGARA](https://github.com/Constanvel/Sunatan) |
 | **Integrasi API LLM** | Permintaan ke Groq, pengaturan ringkasan, state loading, dan penanganan error API | [AI Text Summarizer](https://github.com/Constanvel/AI-Text-Summarizer) |
 
 ### Arah belajar

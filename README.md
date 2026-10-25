@@ -6,14 +6,6 @@ Software engineering student at **SMK Telkom Purwokerto, Indonesia**, focused on
 
 I build complete front-end experiences: page layouts, reusable components, application interfaces, and browser-based educational games.
 
-<p>
-  <img src="https://img.shields.io/badge/Next.js-262B33?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" height="24" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-262B33?style=flat-square&logo=typescript&logoColor=3178C6" height="24" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-262B33?style=flat-square&logo=react&logoColor=61DAFB" height="24" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-262B33?style=flat-square&logo=tailwindcss&logoColor=38BDF8" height="24" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Supabase-262B33?style=flat-square&logo=supabase&logoColor=3FCF8E" height="24" alt="Supabase" />
-</p>
-
 ### Selected projects
 
 #### Web applications
@@ -38,12 +30,12 @@ Technologies and techniques applied in my projects, rather than a list of every 
 
 | Focus | Applied experience | Project |
 | --- | --- | --- |
-| **Next.js App Router & TypeScript** | Page composition, shared layouts, and typed components | [SAGARA](https://github.com/Constanvel/Sunatan), [Lensa](https://github.com/Constanvel/Lensa) |
-| **Component systems & Tailwind CSS** | Reusable UI primitives, design tokens, interaction states, and responsive reading layouts | [Lensa](https://github.com/Constanvel/Lensa/tree/main/src/components/kit) |
-| **Supabase integration** | Front-end authentication flows and interfaces backed by PostgreSQL data | [Lensa](https://github.com/Constanvel/Lensa) |
-| **Playwright & unit testing** | Browser-flow tests and tests for game physics, progress, and save validation | [Gundul Warrior](https://github.com/Constanvel/Projek-Matematika/tree/main/tests) |
-| **Canvas 2D & game systems** | Fixed-step simulation, collision detection, keyboard/touch input, and checkpoint persistence | [Gundul Warrior](https://github.com/Constanvel/Projek-Matematika/tree/main/js/game) |
-| **Technical SEO & automated checks** | Metadata, structured data, sitemap/robots, and CI configuration for lint, type checks, builds, and browser tests | [SAGARA](https://github.com/Constanvel/Sunatan) |
+| <img src="https://cdn.simpleicons.org/nextdotjs/888888" width="18" height="18" alt="Next.js" /> <img src="https://cdn.simpleicons.org/typescript/3178C6" width="18" height="18" alt="TypeScript" /><br>**Next.js App Router & TypeScript** | Page composition, shared layouts, and typed components | [SAGARA](https://github.com/Constanvel/Sunatan), [Lensa](https://github.com/Constanvel/Lensa) |
+| <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="18" height="18" alt="Tailwind CSS" /><br>**Component systems & Tailwind CSS** | Reusable UI primitives, design tokens, interaction states, and responsive reading layouts | [Lensa](https://github.com/Constanvel/Lensa/tree/main/src/components/kit) |
+| <img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="18" height="18" alt="Supabase" /><br>**Supabase integration** | Front-end authentication flows and interfaces backed by PostgreSQL data | [Lensa](https://github.com/Constanvel/Lensa) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/playwright/playwright-original.svg" width="18" height="18" alt="Playwright" /><br>**Playwright & unit testing** | Browser-flow tests and tests for game physics, progress, and save validation | [Gundul Warrior](https://github.com/Constanvel/Projek-Matematika/tree/main/tests) |
+| <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="18" height="18" alt="JavaScript" /><br>**Canvas 2D & game systems** | Fixed-step simulation, collision detection, keyboard/touch input, and checkpoint persistence | [Gundul Warrior](https://github.com/Constanvel/Projek-Matematika/tree/main/js/game) |
+| <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="18" height="18" alt="GitHub Actions" /><br>**Technical SEO & automated checks** | Metadata, structured data, sitemap/robots, and CI configuration for lint, type checks, builds, and browser tests | [SAGARA](https://github.com/Constanvel/Sunatan) |
 | **LLM API integration** | Groq requests, summary controls, loading states, and API error handling | [AI Text Summarizer](https://github.com/Constanvel/AI-Text-Summarizer) |
 
 ### Learning direction
