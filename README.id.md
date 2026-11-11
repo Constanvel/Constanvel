@@ -4,7 +4,7 @@
 
 Pelajar rekayasa perangkat lunak di **SMK Telkom Purwokerto, Indonesia**, berfokus pada pengembangan front-end dan menekuni jalur **AI engineering**.
 
-Saya membangun pengalaman front-end secara menyeluruh: tata letak halaman, komponen yang dapat digunakan ulang, antarmuka aplikasi, dan game edukasi berbasis browser.
+Saya membangun pengalaman front-end secara menyeluruh
 
 ### Proyek pilihan
 
